@@ -4,5 +4,8 @@
 def combine(word1,word2):
 
 	print word1 + word2
+<<<<<<< HEAD
 
 	return 
+=======
+>>>>>>> e8d66bc0a941788870ce127ceb8022f76c995b38
